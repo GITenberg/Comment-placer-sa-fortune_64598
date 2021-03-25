@@ -1,6 +1,9 @@
 _repo: Comment-placer-sa-fortune_64598
 _version: 0.1.0
 alternative_title: 'At head of title: Après la guerre'
+covers:
+- cover_type: archival
+  image_path: 64598-h/images/cover.jpg
 creator:
   author:
     agent_name: Bainville, Jacques
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jacques_Bainville
     - https://en.wikipedia.org/wiki/Jacques_Bainville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64598#Comment-placer-sa-fortune
 gutenberg_issued: '2021-02-19'
 gutenberg_type: Text
 identifiers:
